@@ -1,0 +1,16 @@
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\bin\Debug\net5.0\Exemplo_MVC.exe
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\bin\Debug\net5.0\Exemplo_MVC.deps.json
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\bin\Debug\net5.0\Exemplo_MVC.runtimeconfig.json
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\bin\Debug\net5.0\Exemplo_MVC.runtimeconfig.dev.json
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\bin\Debug\net5.0\Exemplo_MVC.dll
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\bin\Debug\net5.0\ref\Exemplo_MVC.dll
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\bin\Debug\net5.0\Exemplo_MVC.pdb
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\Exemplo_MVC.csprojAssemblyReference.cache
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\Exemplo_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\Exemplo_MVC.AssemblyInfoInputs.cache
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\Exemplo_MVC.AssemblyInfo.cs
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\Exemplo_MVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\Exemplo_MVC.dll
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\ref\Exemplo_MVC.dll
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\Exemplo_MVC.pdb
+C:\Users\user\Documents\backend_2-POO\aula_11.06-MVC\Exemplo_MVC\obj\Debug\net5.0\Exemplo_MVC.genruntimeconfig.cache
